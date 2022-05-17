@@ -1,3 +1,8 @@
+<a name="v2.45.1-usf1"></a>
+## [v2.45.1-usf1] - 2022-05-17
+### Bug Fixes
+- **service level indicators:** increased timeout after creation
+
 <a name="v2.45.1"></a>
 ## [v2.45.1] - 2022-05-13
 ### Documentation Updates
